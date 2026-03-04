@@ -37,7 +37,7 @@
 
 ![截图6](/img/live6.png)
 
-![截图7](/img/live7.png)
+![截图7](/img/cctvlist.png)
 
 ## 扫描进群
 ![截图2](/img/iuai-qun.png)
